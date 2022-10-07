@@ -17,16 +17,16 @@
 
     $sideBar = [
         'follow' => [
-            ['icon' => '63ff2bed-9e88-483f-bd4e-cc61d4b43e9c-profile_image-70x70.png', 'name' => 'Sceau Ouate', 'game' => 'Fall Guys', 'viewer' => '17k'],
-            ['icon' => '63ff2bed-9e88-483f-bd4e-cc61d4b43e9c-profile_image-70x70.png', 'name' => 'Sceau Ouate', 'game' => 'Fall Guys', 'viewer' => '17k'],
-            ['icon' => '63ff2bed-9e88-483f-bd4e-cc61d4b43e9c-profile_image-70x70.png', 'name' => 'Sceau Ouate', 'game' => 'Fall Guys', 'viewer' => '17k'],
+            ['icon' => '13040c9c-4ef6-4284-aad0-c77043e77576-profile_image-70x70.png', 'name' => 'Sceau Ouate', 'game' => 'Fall Guys', 'viewer' => '17k'],
+            ['icon' => '96f62643-8cf3-46ff-921f-36e72d7add40-profile_image-70x70.png', 'name' => 'Cockou', 'game' => 'We were saucisse together', 'viewer' => '17k'],
+            ['icon' => '329b27f2-a551-453d-af5c-bd6b21f826c7-profile_image-70x70.png', 'name' => 'Olpho', 'game' => 'Overwatch 1', 'viewer' => '17k'],
             ['icon' => '63ff2bed-9e88-483f-bd4e-cc61d4b43e9c-profile_image-70x70.png', 'name' => 'Sceau Ouate', 'game' => 'Fall Guys', 'viewer' => '17k'],
             ['icon' => '63ff2bed-9e88-483f-bd4e-cc61d4b43e9c-profile_image-70x70.png', 'name' => 'Sceau Ouate', 'game' => 'Fall Guys', 'viewer' => '17k'],
             ['icon' => '63ff2bed-9e88-483f-bd4e-cc61d4b43e9c-profile_image-70x70.png', 'name' => 'Sceau Ouate', 'game' => 'Fall Guys', 'viewer' => '17k'],
             ['icon' => '63ff2bed-9e88-483f-bd4e-cc61d4b43e9c-profile_image-70x70.png', 'name' => 'Sceau Ouate', 'game' => 'Fall Guys', 'viewer' => '17k'],
         ],
         'reco' => [
-            ['icon' => '63ff2bed-9e88-483f-bd4e-cc61d4b43e9c-profile_image-70x70.png', 'name' => 'Sceau Ouate', 'game' => 'Fall Guys', 'viewer' => '17k'],
+            ['icon' => '63ff2bed-9e88-483f-bd4e-cc61d4b43e9c-profile_image-70x70.png', 'name' => 'AmpèdePfeu', 'game' => 'Fall Guys', 'viewer' => '17k'],
             ['icon' => '63ff2bed-9e88-483f-bd4e-cc61d4b43e9c-profile_image-70x70.png', 'name' => 'Sceau Ouate', 'game' => 'Fall Guys', 'viewer' => '17k'],
             ['icon' => '63ff2bed-9e88-483f-bd4e-cc61d4b43e9c-profile_image-70x70.png', 'name' => 'Sceau Ouate', 'game' => 'Fall Guys', 'viewer' => '17k'],
             ['icon' => '63ff2bed-9e88-483f-bd4e-cc61d4b43e9c-profile_image-70x70.png', 'name' => 'Sceau Ouate', 'game' => 'Fall Guys', 'viewer' => '17k'],
