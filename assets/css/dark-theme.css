@@ -1,0 +1,21 @@
+
+/** Dark Theme **/
+.tw-root--theme-dark body {
+    background-color: #0e0e10;
+}
+.tw-root--theme-dark .navigation-link {
+    color: #efeff1;
+}
+.tw-root--theme-dark .navigation-link.active, .tw-root--theme-dark .navigation-link:hover {
+    color: #bf94ff;
+}
+.tw-root--theme-dark .side-nav {
+    background-color: #1f1f23;
+}
+.tw-root--theme-dark .scrollable-area .simplebar-track .simplebar-scrollbar {
+    background: hsla(0,0%,100%,.5);
+}
+.tw-root--theme-dark .side-nav-card__link:hover {
+    background: #26262c;
+}
+/** Dark Theme **/
